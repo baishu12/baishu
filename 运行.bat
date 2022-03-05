@@ -1,0 +1,1 @@
+ding -config=ding.cfg -subdomain=baishu 127.0.0.1:80
